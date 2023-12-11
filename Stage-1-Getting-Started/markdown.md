@@ -72,6 +72,8 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 
 ```
 
+
+
 ### Images
 
 Images are similar to links, but they require an exclamation point in front, and the text inside the brackets is the alt text.
@@ -86,14 +88,8 @@ Images are similar to links, but they require an exclamation point in front, and
 
 You can use backticks to create code blocks. For syntax highlighting, specify the language after the first set of backticks.
 
-
-```markdown
-`code`
-
 ```python
 print("Hello, world!")
-```
-
 ```
 
 ### Horizontal Rule
@@ -108,11 +104,25 @@ You can create a horizontal rule with three or more hyphens, asterisks, or under
 ___
 
 ```
+### Blockquotes
+Quote text with a >:
+
+
+```markdown
+> Markdown is a writer's best friend.
+
+```
 
 
 This tutorial covered the basics of Markdown syntax. With these simple rules, you can format text for documents, websites, and README files on GitHub and other platforms. Markdown is an essential skill in software development and content creation, enabling you to quickly and easily create formatted text.
 
 For more advanced Markdown formatting, including tables, footnotes, and more, consider exploring additional Markdown resources and guides.
 
+
+# Resources
+
+1. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+2. [The Only Markdown Cheatsheet You Need](https://github.com/im-luka/markdown-cheatsheet)
+3. [Markdown and Visual Studio Code](https://code.visualstudio.com/Docs/languages/markdown)
 
 
